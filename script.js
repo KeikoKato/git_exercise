@@ -1,5 +1,9 @@
 'use strict'
 
+// git add
+// git commit
+
+
 // Q1
 // const arr = ['a', 'b', 'c'];
 
