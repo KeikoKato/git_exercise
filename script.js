@@ -2,6 +2,7 @@
 
 // git add
 // git commit
+// git rm
 
 
 // Q1
